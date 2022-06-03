@@ -1,0 +1,8 @@
+Software Testing Explained in 100 Seconds
+https://www.youtube.com/watch?v=u6QfIXgjwGQ&ab_channel=Fireship
+
+Test-Driven Development // Fun TDD Introduction with JavaScript
+https://www.youtube.com/watch?v=Jv2uxzhPFl4
+
+Testing Library
+https://testing-library.com/
